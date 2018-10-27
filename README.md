@@ -1,8 +1,8 @@
 # Blockchain-Healthcare-Records-
-Implementing blockchain technology in Birth and Death records and access
+Implementing blockchain technology in Birth and Death records keeping and access.
 
-
-This project may benefit Institutions such as 
+## BENEFITS
+This project may benefit Institutions such as :
 1.Insurance companies
 2.Banks
 3.Telcos
